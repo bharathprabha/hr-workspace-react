@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+}
+.header__left {
+  padding: 7px;
+  color: rgb(224, 195, 195);
+}
+.header__right {
+  padding: 7px;
+  color: rgb(224, 195, 195);
+}

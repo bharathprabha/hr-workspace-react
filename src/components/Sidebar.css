@@ -1,0 +1,12 @@
+.sideBar {
+  flex: 0.15;
+  height: 100vh;
+  background-color: rgb(99, 11, 180);
+}
+.siderBar__column:hover {
+  background-color: antiquewhite;
+  cursor: pointer;
+}
+.siderBar__column > h5 {
+  padding: 9px;
+}
