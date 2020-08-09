@@ -2,7 +2,7 @@ import React from "react";
 import "./Signup.css";
 import { Button } from "@material-ui/core";
 
-function Login() {
+function Signup() {
   return (
     <div className="signup">
       <form className="signup__form">
@@ -24,4 +24,4 @@ function Login() {
   );
 }
 
-export default Login;
+export default Signup;

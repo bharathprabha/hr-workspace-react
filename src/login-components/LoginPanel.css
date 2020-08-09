@@ -1,0 +1,14 @@
+.loginpanel {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 350px;
+}
+.loginpanel__header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 35px;
+  margin-bottom: 20px;
+}
