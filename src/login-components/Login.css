@@ -1,0 +1,30 @@
+.login {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.login__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.login__form > input {
+  margin: 7px;
+  height: 30px;
+  width: 350px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+
+.login__form > label {
+  margin: 7px;
+  font-size: large;
+}
+.login__button {
+  display: flex;
+  justify-content: center;
+}
+.login__button > Button {
+  margin: 5px;
+}
