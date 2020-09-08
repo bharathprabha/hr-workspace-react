@@ -9,6 +9,7 @@
   width: 350px;
   border: none;
   border-bottom: 1px solid black;
+  outline-width: 0;
 }
 
 .signup__form > label {
