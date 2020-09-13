@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
-import LoginPanel from "./login-components/LoginPanel";
+import NavBar from "./NavBar";
+
 function App() {
   return (
     <div className="app">
-      <LoginPanel />
+      <NavBar />
     </div>
   );
 }
